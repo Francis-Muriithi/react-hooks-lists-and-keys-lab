@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,6 +36,18 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "mocha": "^8.2.1"
-  }
+    "mocha": "^10.0.0"
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francis-Muriithi/react-hooks-lists-and-keys-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francis-Muriithi/react-hooks-lists-and-keys-lab/issues"
+  },
+  "homepage": "https://github.com/Francis-Muriithi/react-hooks-lists-and-keys-lab#readme"
 }
